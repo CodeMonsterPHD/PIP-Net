@@ -2,6 +2,8 @@
 
 ### The pytorch code of "Prototype-based Intent Perception"
 
+![image](https://user-images.githubusercontent.com/54825614/210133264-7ee6b3d7-b67b-4cdc-a35b-4d7189e49688.png)
+
 ### 1. Environment
 
 The project needs 1 NVIDIA 1080TI
