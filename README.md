@@ -23,7 +23,7 @@ or you can install the environment by `conda env create -f environment.yml`
 
 ### 2. Data Preparation
 
-Download dataset from Googledrive or [Baiduyun](https://pan.baidu.com/s/1bMc6tWke9sznzBlmYCYZ8Q?pwd=1234) to `$ROOT/data`
+Download dataset from [Googledrive](https://drive.google.com/file/d/15CnNsNi1ZbwiFDGb4-4Yfyva4O5pIoP_/view?usp=share_link) or [Baiduyun](https://pan.baidu.com/s/1bMc6tWke9sznzBlmYCYZ8Q?pwd=1234) to `$ROOT/data`
 
 ### 3. Train
 
